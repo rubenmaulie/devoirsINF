@@ -5,7 +5,7 @@ library(lubridate)
 library(plotly)
 
 # INSERT Dataset HERE
-df<-read.csv("C:\\Users\\UniQ1\\Documents\\devoir1\\devoir\\Donnees .csv")
+df<-read.csv("Donnees .csv")
 
 ##########################
 ##### User interface #####
